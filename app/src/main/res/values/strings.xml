@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android Projekt</string>
+    <string name="add_task_button">Dodaj</string>
+</resources>

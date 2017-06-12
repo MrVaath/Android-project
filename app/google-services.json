@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "994372029752",
+    "firebase_url": "https://simpleapp-5c712.firebaseio.com",
+    "project_id": "simpleapp-5c712",
+    "storage_bucket": "simpleapp-5c712.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994372029752:android:c82caaed2df7f3f4",
+        "android_client_info": {
+          "package_name": "com.example.patry.simpleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994372029752-1asd19dtlkqptco00a25cqpu6lhsnt7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMzgmOCB82iHP5wYcuU1egqGNxUeJx0f0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
